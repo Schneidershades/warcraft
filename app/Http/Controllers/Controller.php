@@ -16,6 +16,14 @@ class Controller extends BaseController
      * @OA\Info(
      *      version="1.0.0",
      *      title="Warcraft App OpenApi API Documentation",
+     *      description="Warcraft App Using L5 Swagger OpenApi description",
+     *      @OA\Contact(
+     *          email="schneiderkomolafe@gmail.com"
+     *      ),
+     *      @OA\License(
+     *          name="Apache 2.0",
+     *          url="http://www.apache.org/licenses/LICENSE-2.0.html"
+     *      )
      * )
      *
      * @OA\Tag(
